@@ -1,2 +1,0 @@
-# Alone
-dominos pizza project
